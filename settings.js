@@ -22,13 +22,13 @@ global.APIKeys = {
 global.owner = ['94741671668']
 global.premium = ['94741671668']
 global.ownernomer = '94741671668'
-global.ownername = '🖤Black Panther MD🖤'
+global.ownername = 'Didula Rashmika'
 global.botname = '🖤Black Panther MD🖤'
-global.footer = '©🖤Black Panther MD🖤.'
+global.footer = '©Black Panther MD.'
 global.ig = 'https://github.com/BlackPanther-svg/Black-Panther-MD-'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/BlackPanther-svg/Black-Panther-MD-'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 global.packname = '🖤Black Panther MD🖤'
 global.author = '🖤Black Panther MD🖤'
 global.sessionName = 'session'
@@ -36,12 +36,24 @@ global.prefa = ['','!','.','🖤','💣','🇱🇰']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: '🖤This Feature Is Only For Admin!🖤',
-    botAdmin: '🖤Bot Must Be Admin First!🖤',
-    owner: '🖤This Feature Is Only For Owner!🖤',
-    group: '🖤Feature Used Only For Groups!🖤',
-    private: '🖤Features Used Only For Private Chat!🖤',
-    bot: '🖤This Feature Is Only For Bot🖤',
+    admin: ' "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n*╭➤ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*» \n*│❖ Oᴡɴᴇʀ :ī.am/Didulaꪶ⇾🪀☻᳡94741671668🇱🇰ꫂ⁩⁩⁩*\n*│❖ Wᴏʀᴋ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ*  \n*│❖ ᴅᴏɴᴛ ᴜsᴇ ʙᴀᴅ ᴡᴏʀᴅs*\n*│❖ ᴛʏᴘᴇ .menu ᴄᴏᴍᴍᴀɴᴅs*\n*│❖ ᴀᴅᴍɪɴ ʙᴏᴛ* \n*╭◪ ᴄᴏᴅᴇᴅ ʙʏ : ī.am/ꪶDidulaꫂ⁩⁩⁩*\n*You tube:https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA\n*Group:https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP╰─────────────────☘︎*"
+
+        ',
+    botAdmin: ' "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n*╭➤ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*» \n*│❖ Oᴡɴᴇʀ :ī.am/Didulaꪶ⇾🪀☻᳡94741671668🇱🇰ꫂ⁩⁩⁩*\n*│❖ Wᴏʀᴋ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ*  \n*│❖ ᴅᴏɴᴛ ᴜsᴇ ʙᴀᴅ ᴡᴏʀᴅs*\n*│❖ ᴛʏᴘᴇ .menu ᴄᴏᴍᴍᴀɴᴅs*\n*│❖ ᴀᴅᴍɪɴ ʙᴏᴛ* \n*╭◪ ᴄᴏᴅᴇᴅ ʙʏ : ī.am/ꪶDidulaꫂ⁩⁩⁩*\n*You tube:https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA\n*Group:https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP╰─────────────────☘︎*"
+
+        ',
+    owner: ' "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n*╭➤ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*» \n*│❖ Oᴡɴᴇʀ :ī.am/Didulaꪶ⇾🪀☻᳡94741671668🇱🇰ꫂ⁩⁩⁩*\n*│❖ Wᴏʀᴋ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ*  \n*│❖ ᴅᴏɴᴛ ᴜsᴇ ʙᴀᴅ ᴡᴏʀᴅs*\n*│❖ ᴛʏᴘᴇ .menu ᴄᴏᴍᴍᴀɴᴅs*\n*│❖ ᴀᴅᴍɪɴ ʙᴏᴛ* \n*╭◪ ᴄᴏᴅᴇᴅ ʙʏ : ī.am/ꪶDidulaꫂ⁩⁩⁩*\n*You tube:https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA\n*Group:https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP╰─────────────────☘︎*"
+
+        ',
+    group: ' "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n*╭➤ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*» \n*│❖ Oᴡɴᴇʀ :ī.am/Didulaꪶ⇾🪀☻᳡94741671668🇱🇰ꫂ⁩⁩⁩*\n*│❖ Wᴏʀᴋ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ*  \n*│❖ ᴅᴏɴᴛ ᴜsᴇ ʙᴀᴅ ᴡᴏʀᴅs*\n*│❖ ᴛʏᴘᴇ .menu ᴄᴏᴍᴍᴀɴᴅs*\n*│❖ ᴀᴅᴍɪɴ ʙᴏᴛ* \n*╭◪ ᴄᴏᴅᴇᴅ ʙʏ : ī.am/ꪶDidulaꫂ⁩⁩⁩*\n*You tube:https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA\n*Group:https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP╰─────────────────☘︎*"
+
+        ',
+    private: ' "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n*╭➤ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*» \n*│❖ Oᴡɴᴇʀ :ī.am/Didulaꪶ⇾🪀☻᳡94741671668🇱🇰ꫂ⁩⁩⁩*\n*│❖ Wᴏʀᴋ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ*  \n*│❖ ᴅᴏɴᴛ ᴜsᴇ ʙᴀᴅ ᴡᴏʀᴅs*\n*│❖ ᴛʏᴘᴇ .menu ᴄᴏᴍᴍᴀɴᴅs*\n*│❖ ᴀᴅᴍɪɴ ʙᴏᴛ* \n*╭◪ ᴄᴏᴅᴇᴅ ʙʏ : ī.am/ꪶDidulaꫂ⁩⁩⁩*\n*You tube:https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA\n*Group:https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP╰─────────────────☘︎*"
+
+        ',
+    bot: ' "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n*╭➤ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*» \n*│❖ Oᴡɴᴇʀ :ī.am/Didulaꪶ⇾🪀☻᳡94741671668🇱🇰ꫂ⁩⁩⁩*\n*│❖ Wᴏʀᴋ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ*  \n*│❖ ᴅᴏɴᴛ ᴜsᴇ ʙᴀᴅ ᴡᴏʀᴅs*\n*│❖ ᴛʏᴘᴇ .menu ᴄᴏᴍᴍᴀɴᴅs*\n*│❖ ᴀᴅᴍɪɴ ʙᴏᴛ* \n*╭◪ ᴄᴏᴅᴇᴅ ʙʏ : ī.am/ꪶDidulaꫂ⁩⁩⁩*\n*You tube:https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA\n*Group:https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP╰─────────────────☘︎*"
+
+        ',
     wait: '🖤Wait A minute...🖤',
     error: '🖤Error! Maybe Api Key Is Expired🤔🖤!',
     endLimit: '🖤Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
@@ -60,10 +72,10 @@ global.mess = {
    potionawal: 1
 }
 global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
-global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.flaming = fs.readFileSync('./GojoMedia/gojo.jpg')
+global.fluming = fs.readFileSync('./GojoMedia/gojo.jpg')
+global.flarun = fs.readFileSync('./GojoMedia/gojo.jpg')
+global.flasmurf = fs.readFileSync('./GojoMedia/gojo.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
