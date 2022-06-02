@@ -55,7 +55,7 @@ global.ig = 'https://github.com/BlackPanther-svg/Black-Panther-MD-'
 
 global.region = 'India, South India, Kerala'
 
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.sc = 'https://github.com/BlackPanther-svg/Black-Panther-MD-'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
