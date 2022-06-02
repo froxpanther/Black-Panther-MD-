@@ -1,5 +1,5 @@
 <p align="center">
-<font face='Arial' Size='20' colour='red'>Black Panther MD</font>
+<font face='Arial' Size='100' colour='red'>𝗕𝗟𝗔𝗖𝗞 𝗣𝗔𝗡𝗧𝗛𝗘𝗥 𝗠𝗗</font>
 <p align="center">
 <img src="https://i.ibb.co/yQBM4yx/wp1869937.png" alt="google-font" border="0"></a>
 <div align="center">
