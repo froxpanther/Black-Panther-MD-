@@ -1,6 +1,5 @@
-<p align="center">
-<font face='Arial' Size='100' colour='red'>𝗕𝗟𝗔𝗖𝗞 𝗣𝗔𝗡𝗧𝗛𝗘𝗥 𝗠𝗗</font>
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=32&lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝗕𝗢𝗧;THIS+BOT+MADE+BY+𝙳𝚍𝚞𝚕𝚊+%26+JIFI)](https://git.io/typing-svg)
+<div align="center">
 <img src="https://i.ibb.co/yQBM4yx/wp1869937.png" alt="google-font" border="0"></a>
 <div align="center">
 
