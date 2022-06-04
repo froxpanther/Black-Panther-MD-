@@ -31,7 +31,7 @@ global.APIs = {
 
 global.APIKeys = {
 
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': '0b0df72a76', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 
 }
 
@@ -53,7 +53,7 @@ global.footer = '©Black panther🖤.'
 
 global.ig = 'https://github.com/BlackPanther-svg/Black-Panther-MD-'
 
-global.region = 'India, South India, Kerala'
+global.region = 'Sri lanka, North Central Province, Anuradhapura'
 
 global.sc = 'https://github.com/BlackPanther-svg/Black-Panther-MD-'
 
@@ -71,21 +71,21 @@ global.sp = '⭔'
 
 global.mess = {
 
-    success: 'Done ✓',
+    success: 'Done ✓🌹⃝⃘̉̉̉̉̉̉🧚',
 
-    admin: 'This Feature Is Only For Admin!',
+    admin: 'This Feature Is Only For Admin!✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣',
 
-    botAdmin: 'Bot Must Be Admin First!',
+    botAdmin: 'Bot Must Be Admin First!❤️⃟✦⃝̮̮̮̯̯̯😌',
 
-    owner: 'This Feature Is Only For Owner!',
+    owner: 'This Feature Is Only For Owner😯⃟💦᭄᭄̊̊̊̊࿔!',
 
-    group: 'Feature Used Only For Groups!',
+    group: 'Feature Used Only For Groups!😒⃝⃟ꦾ👌ꦿ',
 
-    private: 'Features Used Only For Private Chat!',
+    private: 'Features Used Only For Private Chat😯⃟💦᭄᭄̊̊̊̊࿔!',
 
-    bot: 'This Feature Is Only For Bot',
+    bot: 'This Feature Is Only For Bot❤️⃝➤⃟̱̱̱̱̄̄̄̄😢',
 
-    wait: 'Wait A minute...',
+    wait: 'Wait A minute...🦋⃝❉⃟࿔ꦿ',
 
     error: 'Error! Maybe Api Key Is Expired🤔!',
 
