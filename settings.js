@@ -31,7 +31,7 @@ global.APIs = {
 
 global.APIKeys = {
 
-	'https://zenzapis.xyz': '0b0df72a76', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'b0df72a76', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 
 }
 
