@@ -65,7 +65,7 @@ global.author = '🖤Black Panther Bot🖤'
 
 global.sessionName = 'session'
 
-global.prefa = ['','❀','.','❄','❣','⚘'.'☃']
+global.prefa = ['','!','.','❄','🖤','☃']
 
 global.sp = '◈'
 
